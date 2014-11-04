@@ -1,0 +1,8 @@
+  737  cd 2012-droid-code/
+  740  git init .
+  741  git config user.name tricia
+  742  git config user.email pcampbell.dawson@gmail.com
+  743  git remote add origin git@github.com:campbe13/2012-droid-code.git
+  745  git add .
+  747  git commit -m "first commit"
+  748  git push origin master
