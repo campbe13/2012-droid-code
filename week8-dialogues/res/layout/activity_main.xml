@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnFirst"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Exit Dialogue" />
+
+    <Button
+        android:id="@+id/btnSecond"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Colors Dialogue" />
+
+    <Button
+        android:id="@+id/btnThird"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Time Picker Dialogue" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Date Picker Dialogue" />
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Progress Dialogue" />
+
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Custom Dialogue" />
+
+</LinearLayout>

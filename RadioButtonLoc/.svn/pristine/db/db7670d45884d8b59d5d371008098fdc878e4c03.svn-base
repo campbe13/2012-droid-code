@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name"> RadioButtonLoc </string>
+    <string name="hello_world"> Bonjour! </string>
+    <string name="menu_settings"> Paramètres </string>
+    <string name="title_activity_rband_loc"> RBetLoc </string>
+    <string name="text">échanger la langue sur votre appareil pour voir le texte anglais</string>
+
+    <string-array name="buttonTxt">
+        <item> bouton radio 1 texte </item>
+        <item> texte pour le bouton radio 2 </item>
+        <item> dernier 3 bouton radio </item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/BroadcastReceiverANDSendBroadcast/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/BroadcastReceiverSMS/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/ContentProv/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/HTTPDownloaderExample/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/NotificationExamples/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/SimpleJavaThread/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/UseContProv/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/cs534.sample.WebViewControlExampleActivity/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/MultiThread/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/RadioButtonLoc/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/ServiceLocal/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/SingleThread/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/com.deitel.addressbook.AddressBook/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/week8-dialogues/
+https://waldo.dawsoncollege.qc.ca/svn/Samples534/Dialogues/

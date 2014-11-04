@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">RadioButtonLoc</string>
+
+   <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_rband_loc">RBandLoc</string>
+    <string name="text">Switch language on your device to see the french text</string>
+
+    <string-array name="buttonTxt">
+        <item>Radio button 1 text </item>
+        <item>Text for radio	button 2</item>
+        <item>Last one, radio button 3</item>
+    </string-array>
+
+</resources>

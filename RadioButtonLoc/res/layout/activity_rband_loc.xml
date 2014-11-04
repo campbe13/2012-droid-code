@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RadioGroup
+        android:id="@+id/buttonGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+    
+    <RadioButton
+        android:id="@+id/radioButton1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="23dp"
+        android:layout_marginTop="52dp"
+        android:text="Radiobutton 1" />
+
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/radioButton1"
+            android:layout_below="@+id/radioButton1"
+            android:layout_marginLeft="23dp"
+            android:layout_marginTop="40dp"
+            android:text="Radiobutton 2" />
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/radioButton2"
+            android:layout_below="@+id/radioButton2"
+            android:layout_marginLeft="23dp"
+            android:layout_marginTop="59dp"
+            android:text="Radiobutton 3" />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/radioButton3"
+            android:layout_marginTop="65dp"
+            android:layout_marginLeft="23dp" 
+            android:layout_marginRight="23dp"
+            android:text="@string/text" />
+    </RadioGroup>
+
+</RelativeLayout>
